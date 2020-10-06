@@ -16,49 +16,16 @@
   border-width: 2px;
   border-color: pink;
 }
-.navbar-brand{
-  padding-left: 10px;
-   
-}
-
-h3{
-color:white
-}
-h4{
-color:wheat
-}
-
-.header{
-  
-  text-align:right;
-  font-size: 100px;
-  letter-spacing: 3px;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: pink;
-}
-.header3{
-  text-align:center;
-  font-size: 50px;
-  letter-spacing: 3px;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: pink;
-}
 
 
 
 
-.aboutme{
-  
-  margin:auto;
-  padding-left:30px;
-  font-size:100%;
-  letter-spacing: 4px;
-  color:white;
-  border: 5px solid whitesmoke;
-  -webkit-text-stroke-width: .2px;
-  -webkit-text-stroke-color: white;
-  
-}
+
+
+
+
+
+
 .links{
  position: static;
  text-align:center;
@@ -69,13 +36,6 @@ color:wheat
   background-color: rgb(17, 29, 29);
 }
 
-p{
-    
-    padding:8px;
-    color:black;
-    width: 700px;
-    
-} 
 
 
 li{
