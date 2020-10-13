@@ -117,3 +117,4 @@ input[type=checkbox] {
    input[type=checkbox]:checked ~ div.curtain__panel--right {
     transform: translateX(60%);
    } 
+   

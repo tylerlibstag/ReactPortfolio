@@ -1,0 +1,29 @@
+.fill{
+  display: block;
+  margin: auto;
+}
+  .body{
+    background-color: black;
+    height: 100%;
+    margin-bottom:auto;
+    padding:auto;
+  }
+  .logo{
+    position: absolute;
+    padding:auto;
+    margin-top: 3px;
+    width:190px;
+    height:130px;
+    border: 10px solid transparent;
+    border-width: 2px;
+    border-color: pink;
+}
+.links{
+  position: static;
+  text-align:center;
+  z-index: 2;
+  left: 0;
+   bottom: 0;
+   padding: 15px;
+   background-color: rgb(17, 29, 29);
+ }

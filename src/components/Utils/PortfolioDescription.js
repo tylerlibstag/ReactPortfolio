@@ -1,9 +1,18 @@
 import React from 'react';
+import "./utils.css"
 
 function PortfolioDescription(props) {
-    return (
-        <p className="text-secondary">{props.description}
-        </p>
+    return ( 
+        <div >
+        <h2>{props.title}</h2>
+        <p className="text">{props.description}</p>
+       
+        <p><button className="button"><a href={props.github}>Github</a></button> </p>
+       <p><button className="button"><a  href={props.deployedApp}>Deployed App</a></button></p>
+        
+        </div>
+        
+        
     )
 };
 

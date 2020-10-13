@@ -1,19 +1,5 @@
-h3{
-    color:white
-}
-h4{
-    color:wheat
-}
 
-.header{
-  
-        text-align:right;
-        font-size: 100px;
-        letter-spacing: 3px;
-        -webkit-text-stroke-width: 1px;
-        -webkit-text-stroke-color: pink;
-}
-.header3{
+.head{
         text-align:center;
         font-size: 50px;
         letter-spacing: 3px;
@@ -45,7 +31,7 @@ h4{
   
 
 
-.bod{
+.body{
     background-color: black;
     height: 100%;
   }
@@ -80,6 +66,3 @@ h4{
   } 
   
   
-  li{
-    color:white;
-  }

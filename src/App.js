@@ -5,6 +5,8 @@ import Portfolio from "./Pages/Projects";
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import Main from './Pages/MainPage';
+import Contact from './Pages/Contact';
+import Logo from "./components/Logo"
 
 
 function App() {
@@ -12,11 +14,12 @@ function App() {
     <Router>
       <div>
         <NavBar />
+        <Logo/>
         <Switch>
           <Route exact path={["/", "/main"]} component={Main} />
           <Route exact path="/portfolio" component={Portfolio} />
-          {/* <Route exact path="/contact" component={Contact} /> */}
-          {/* <Route component={NoMatch} /> */}
+          <Route exact path="/contact" component={Contact} />
+          
         </Switch>
         
       </div>

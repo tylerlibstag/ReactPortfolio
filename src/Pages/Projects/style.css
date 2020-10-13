@@ -7,8 +7,35 @@
     border: 10px solid transparent;
     border-width: 2px;
     border-color: pink;
+    z-index: 2;
   }
   .bod{
-    background-color: black;
+    position: relative;
+    
     height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    overflow: auto;
   }
+  .header{
+   
+    display:block;
+    position: relative;
+    font-size: 100px;
+    letter-spacing: 3px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: pink;
+    margin: auto;
+    text-align:center;
+    padding:2%;
+    background-color: black;
+    
+  }
+  /* .container{
+    display: grid;
+    grid-template-columns: 1fr;
+
+  } */
+  /* .container-fluid{
+
+  } */
