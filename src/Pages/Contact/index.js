@@ -30,10 +30,24 @@ function Contact() {
                 
             <div class="form-group">
               <label>Message</label>
-              <textarea class="form-control" rows="5" cols="5"></textarea>
+              <textarea class="form-control" rows="10" cols="5"></textarea>
             </div>
+            
             <button type="submit" class="btn btn-primary">Submit</button>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+           
           </div>
+          
           </view>
           
           </div>

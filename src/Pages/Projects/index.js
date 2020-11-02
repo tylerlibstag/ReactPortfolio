@@ -23,8 +23,10 @@ function Portfolio(props) {
                         <PortfolioDescription
                             description={props.description}
                             title={props.title}
+                            languages={props.languages}
                             deployedApp={props.deployedApp}
-                            github={props.github} />
+                            github={props.github}
+                             />
                     </div>
 
                 ))}

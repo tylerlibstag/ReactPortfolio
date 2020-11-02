@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css"
-
+import Languages from "../Languages"
 
 function Curtain(){
   
@@ -29,6 +29,7 @@ function Curtain(){
 
       <div className="curtain__prize">
         <div className="empty">
+          
         <img src="images/me.jpg" className="me" alt="Image of me"/>
         <h2 className="bioHeader">Tyler Libstag-BIO</h2>
         <p className="about">
@@ -37,9 +38,12 @@ function Curtain(){
           such as Html, Css, JavaScript, node Js, c#, Maya, Unity, Photoshop, Illustrator, and After Affects. 
           I find myself performing at my peak when I am on a team. I find working and communicating on a team essential 
           when it comes to professional display</p>   
+          <Languages />
       </div>
+      
       </div>
       <div className="curtain__panel curtain__panel--right"/>
+      
       </div>
   </div> 
         

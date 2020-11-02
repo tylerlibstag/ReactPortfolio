@@ -5,10 +5,21 @@ import {
     WeatherDashboard,
     Cinder,
     WorkoutTracker,
+    Boroughd,
  
 } from "../../images"
 
 export const portfolioArr = [
+    {
+        id: 0,
+        title: "Borough'd",
+        description: "A video first apartment finder app that gives users the ability to search for, and to list available units.",
+        image: Boroughd,
+        github: "https://github.com/tylerlibstag/muchXc1te",
+        deployedApp: "https://aptreact.web.app/",
+        languages: ["REACT.js", "/", "JAVASCRIPT", "/", "CSS", "/", "Mongo.DB", "/", "Multer", "/", "FireBase"]
+        
+    },
     {
         id: 0,
         title: "Password Generator",
@@ -16,7 +27,7 @@ export const portfolioArr = [
         image: PasswordGenerator,
         github: "https://github.com/tylerlibstag/tylerlibstags_password_generator",
         deployedApp: "https://tylerlibstag.github.io/tylerlibstags_password_generator/",
-        languages: ["HTML", "|", "JAVASCRIPT", "|", "CSS"]
+        languages: ["HTML", "/", "JAVASCRIPT", "/", "CSS"]
         
     },
   
@@ -27,7 +38,7 @@ export const portfolioArr = [
         image: DayPlanner,
         github: "https://github.com/tylerlibstag/day-planner",
         deployedApp: "https://tylerlibstag.github.io/day-planner/",
-        languages: ["HTML", "|", "JAVASCRIPT", "|", "CSS", "|","JQUERY"]
+        languages: ["HTML", "/", "JAVASCRIPT", "/", "CSS", "/","JQUERY"]
         
     },
 
@@ -38,7 +49,7 @@ export const portfolioArr = [
         image: WeatherDashboard,
         github: "https://github.com/tylerlibstag/Weather",
         deployedApp: "https://tylerlibstag.github.io/Weather/",
-        languages: ["HTML", "CSS", "Javascript", "jQuery"]
+        languages: ["HTML", "/", "CSS", "/", "Javascript", "/", "jQuery"]
         
     },
  
@@ -47,7 +58,7 @@ export const portfolioArr = [
         id: 3,
         title: "Workout Tracker",
         description: "This app allows the user to record their excercises. The user is allows given an option to continue an old excercise while also checking the stats of their weekly progress. ",
-        languages: ["HTML","|", "CSS","|", "Javascript","|", "Node.js","|", "Express.js","|", "MongoDB"],
+        languages: ["HTML","/", "CSS","/", "Javascript","/", "Node.js","/", "Express.js","/", "MongoDB"],
         image: WorkoutTracker,
         github: "https://github.com/tylerlibstag/WorkOutTracker",
         deployed: "https://sleepy-cove-40896.herokuapp.com/?id=5f53d5496a2fac001768833c",
@@ -57,7 +68,7 @@ export const portfolioArr = [
         id: 4,
         title: "Cinder",
         description: "An app that allows Bootcamp,university, or students in education to keep in contact with each other. the users are also able to post old projects and current skills they have that may be relevant to future projects. My responsibilites include, using jQuery to create a location recommender, and also routing the pages to connect with each other using express.",
-        languages: ["HTML", "CSS", "Javascript", "REACT.js", "Node.js"],
+        languages: ["HTML", "/", "CSS", "/", "Javascript", "/", "REACT.js", "/", "Node.js"],
         image: Cinder,
         github: "https://github.com/BubblyRobot/project2-cinder",
         deployedApp: "https://project2-cinder.herokuapp.com/",
@@ -70,6 +81,6 @@ export const portfolioArr = [
         image: GameRecommender,
         github: "https://github.com/microxgleek94/ColumbiaProject_-1",
         deployedApp: "https://microxgleek94.github.io/ColumbiaProject_-1/",
-        languages: ["HTML", "|", "JAVASCRIPT", "|", "CSS", "|","JQUERY"]
+        languages: ["HTML", "/", "JAVASCRIPT", "/", "CSS", "/","JQUERY"]
     }
 ];
