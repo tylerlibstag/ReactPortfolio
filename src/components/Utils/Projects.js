@@ -61,7 +61,7 @@ export const portfolioArr = [
         languages: ["HTML","/", "CSS","/", "Javascript","/", "Node.js","/", "Express.js","/", "MongoDB"],
         image: WorkoutTracker,
         github: "https://github.com/tylerlibstag/WorkOutTracker",
-        deployed: "https://sleepy-cove-40896.herokuapp.com/?id=5f53d5496a2fac001768833c",
+        deployed: "https://sleepy-cove-40896.herokuapp.com/",
         
     },
     {
