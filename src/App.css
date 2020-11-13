@@ -57,10 +57,7 @@
     .logo{
       position: relative;
     }
-    .me{
-      width:175px;
-      height:175px;
-    }
+   
     .header{
       text-align: center;
     }
@@ -75,22 +72,12 @@
       font-size:50px;
     }
     .me{
-      width:150px;
-      height:150px;
+      width:25%;
+      height:25%;
+      position: static;
     }
-    .curtain__wrapper{
-      width:0%;
-      height:0%;
-    }
-    .curtain__panel{
-      width:0%;
-      height:0%;
-    }
-    .curtain{
-      width:0%;
-      height:0%;
-    }
-    .header3{
+    
+    .head{
       display:none;
     }
     .header{
@@ -128,17 +115,20 @@
           display:flex;
           flex-direction: column;
           justify-content: center;
-          
-          
       }
-      .me{
-        width: 50px;
-        height: 50px;
-      }
+      .container {
+        
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+      
+      
+    
       .aboutme{
         padding-left: 15px;
       }
-      .header{
+      .bioHeader{
         text-align: center;
       }
       

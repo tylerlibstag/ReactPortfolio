@@ -10,9 +10,16 @@ function Main() {
 
             <div className="body">
                
-                
-                <h1 className="head"> Welcome To My Website</h1>
-                <h3 className="head">(Click To Enter)</h3>
+                <div className="push">
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                </div>
+                <h1 className="headA"> Welcome To My Website</h1>
+                <h3 className="headB">(Click To Enter)</h3>
                 
                 
                 <Curtain />

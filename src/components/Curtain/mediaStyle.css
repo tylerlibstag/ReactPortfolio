@@ -1,0 +1,130 @@
+@media only screen and (min-width: 1010px){
+    .push{
+        display: none;
+    }
+    .curtain__wrapper{
+        width:100%;
+        height:80%;
+        position:relative;
+       
+      }
+      .empty{
+          position:relative;
+          padding: 10%;
+          
+      }
+}
+
+@media only screen and (max-width: 1480px){
+    [class*="col-"] {
+      width: 100%;
+    }
+    .logo{
+      position: relative;
+    }
+    .header{
+      text-align: center;
+    }
+    .me{
+        width:15%;
+        height:15%;
+    }
+     .curtain__wrapper{
+        width:100%;
+        height:70%;
+        position:relative;
+
+       
+      } 
+  
+    
+    
+  }
+  
+  @media only screen and (max-width: 960px) {
+    [class*="col-"] {
+        width: 100%;
+      }
+      
+      .logo{
+        position: relative;
+      }
+      .me{
+        width:15%;
+        height:15%;
+      }
+      .header{
+        text-align: center;
+      }
+      .curtain__wrapper{
+        width:100%;
+        height:45%;
+        position:relative;
+      }
+      
+   
+  }
+  /* @media only screen and (min-width:  908px) and (max-width: 865px ){
+    .curtain__wrapper{
+        width:100%;
+        height:45%;
+        position:relative;
+      }
+  } */
+  /* @media only screen and (max-width: 865px ){
+    .curtain__wrapper{
+        width:100%;
+        height:45%;
+        position:relative;
+      }
+  } */
+  @media only screen and (max-width: 758px) {
+    [class*="col-"] {
+        width: 100%;
+      }
+      .a{
+        font-size:50px;
+      }
+      .me{
+        width:100px;
+        height:15%;
+      }
+      .curtain__wrapper{
+        width:0%;
+        height:0%;
+      }
+      .curtain__panel{
+        width:0%;
+        height:0%;
+      }
+     .bioHeader{
+         text-align: center;
+     }
+   
+  
+      .headB{
+        display:none;
+      }
+      .headA{
+      
+        text-align: center;
+        font-size: 50px;
+      }
+      
+      .links{
+        position:fixed;
+      }
+      .logo{
+        position:fixed;
+        width:125px;
+        height:95px;
+      }
+  
+    
+    }
+    
+   
+    
+  
+  
+   

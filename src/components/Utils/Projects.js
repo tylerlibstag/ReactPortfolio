@@ -6,6 +6,7 @@ import {
     Cinder,
     WorkoutTracker,
     Boroughd,
+    EmployeeDirectory
  
 } from "../../images"
 
@@ -21,18 +22,18 @@ export const portfolioArr = [
         
     },
     {
-        id: 0,
-        title: "Password Generator",
-        description: "An app that recommends a password based off of user criteria",
-        image: PasswordGenerator,
-        github: "https://github.com/tylerlibstag/tylerlibstags_password_generator",
-        deployedApp: "https://tylerlibstag.github.io/tylerlibstags_password_generator/",
-        languages: ["HTML", "/", "JAVASCRIPT", "/", "CSS"]
+        id: 1,
+        title: "Employee Directory",
+        description: "An app that finds employees when their name is typed into the search bar. The names are generated using an api",
+        image: EmployeeDirectory,
+        github: "https://github.com/tylerlibstag/Employee_Directory",
+        deployedApp: "https://employeeuser4534.herokuapp.com/",
+        languages: ["React.Js", "/", "JAVASCRIPT", "/", "CSS","/","Axios"]
         
     },
   
     {
-        id: 1,
+        id: 2,
         title: "Work Day Planner",
         description: "Displays current day scheduling and allows users to create hourly events. Events are color-coded by time of day: past hour is in gray, current hour is in red, future hours are in green.",
         image: DayPlanner,
@@ -43,7 +44,7 @@ export const portfolioArr = [
     },
 
     {
-        id: 2,
+        id: 3,
         title: "Weather Dashboard",
         description: "An app in which the user provides a city name which then gives back a 5 day forcast of the weather.",
         image: WeatherDashboard,
@@ -55,7 +56,7 @@ export const portfolioArr = [
  
 
     {
-        id: 3,
+        id: 4,
         title: "Workout Tracker",
         description: "This app allows the user to record their excercises. The user is allows given an option to continue an old excercise while also checking the stats of their weekly progress. ",
         languages: ["HTML","/", "CSS","/", "Javascript","/", "Node.js","/", "Express.js","/", "MongoDB"],
@@ -65,7 +66,7 @@ export const portfolioArr = [
         
     },
     {
-        id: 4,
+        id: 5,
         title: "Cinder",
         description: "An app that allows Bootcamp,university, or students in education to keep in contact with each other. the users are also able to post old projects and current skills they have that may be relevant to future projects. My responsibilites include, using jQuery to create a location recommender, and also routing the pages to connect with each other using express.",
         languages: ["HTML", "/", "CSS", "/", "Javascript", "/", "REACT.js", "/", "Node.js"],
@@ -75,12 +76,23 @@ export const portfolioArr = [
         
     },
     {
-        id: 5,
+        id: 6,
         title: "Game Recommender",
         description: "An app that reccomends games for new and experienced gamers based off of user criteria.  the app also gives news on specified games and even has a random selection generator. I was responsible for finding and calling api functions using Jquery.",
         image: GameRecommender,
         github: "https://github.com/microxgleek94/ColumbiaProject_-1",
         deployedApp: "https://microxgleek94.github.io/ColumbiaProject_-1/",
         languages: ["HTML", "/", "JAVASCRIPT", "/", "CSS", "/","JQUERY"]
+    },
+    {
+        id: 7,
+        title: "Password Generator",
+        description: "An app that recommends a password based off of user criteria",
+        image: PasswordGenerator,
+        github: "https://github.com/tylerlibstag/tylerlibstags_password_generator",
+        deployedApp: "https://tylerlibstag.github.io/tylerlibstags_password_generator/",
+        languages: ["HTML", "/", "JAVASCRIPT", "/", "CSS"]
+        
     }
+    
 ];

@@ -1,10 +1,17 @@
 
-.head{
+.headA{
         text-align:center;
         font-size: 50px;
         letter-spacing: 3px;
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: pink;
+}
+.headB{
+  text-align:center;
+  font-size: 50px;
+  letter-spacing: 3px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: pink;
 }
 .logo{
     position: absolute;
