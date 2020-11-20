@@ -37,7 +37,7 @@
     font-size:100%;
     letter-spacing: 4px;
     color:white;
-    border: 5px solid whitesmoke;
+    /* border: 5px solid whitesmoke; */
     -webkit-text-stroke-width: .2px;
     -webkit-text-stroke-color: white;
     
@@ -52,7 +52,7 @@
     border-width: 3px;
     border: 10px solid transparent;
   
-    border-color: pink;
+    /* border-color: pink; */
     border-radius: 50%;
   }
 /* Slide the panel to the right out of the container */

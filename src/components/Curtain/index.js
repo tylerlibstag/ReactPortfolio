@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-import Languages from "../Languages";
 import "./mediaStyle.css";
 
 function Curtain(){
@@ -32,7 +31,7 @@ function Curtain(){
         <div className="empty">
         
         <img src="images/me.jpg" className="me" alt="Image of me"/>
-        <h2 className="bioHeader">Tyler Libstag-BIO</h2>
+        <h2 className="bioHeader">Tyler Libstag</h2>
         <p className="about">
           I am an aspiring fullstack developer with a background in video game development and 3D art.
           Due to my passion for technical art, my skillset involves a multitude of different programs and languages
