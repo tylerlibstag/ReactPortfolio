@@ -9,7 +9,7 @@ function NavBar() {
 
       <a className="navbar-brand" href="/main">Home</a>
       <a className="navbar-brand" href="/portfolio">Portfolio</a>
-      <a className="navbar-brand" href="/contact">Contact</a>
+      
 
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav mr-auto">
