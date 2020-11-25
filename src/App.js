@@ -5,7 +5,7 @@ import Portfolio from "./Pages/Projects";
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import Main from './Pages/MainPage';
-import Contact from './Pages/Contact';
+
 import Logo from "./components/Logo"
 
 
