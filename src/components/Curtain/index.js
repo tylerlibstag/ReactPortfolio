@@ -28,7 +28,7 @@ function Curtain(){
       <div className="curtain__panel curtain__panel--left"/>
 
       <div className="curtain__prize">
-        <div className="empty">
+        
         
         <img src="images/me.jpg" className="me" alt="Image of me"/>
         <h2 className="bioHeader">Tyler Libstag</h2>
@@ -41,7 +41,7 @@ function Curtain(){
           
       </div>
       
-      </div>
+      
       <div className="curtain__panel curtain__panel--right"/>
       
       </div>
