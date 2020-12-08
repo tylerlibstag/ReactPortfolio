@@ -8,7 +8,8 @@
   display: grid;
   padding:10px;
   grid-template-columns: repeat(3,1fr);
-  gap: 5px;
+  grid-template-rows: 25% 25% 25%;
+  gap: 10px;
   background-color: grey;
   Width:auto;
 }
@@ -26,12 +27,13 @@
 .header{
     position: relative;
     font-size: 100px;
+    padding: 15px;
     letter-spacing: 3px;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: pink;
     margin: auto;
     text-align:center;
-   
+    
     width: auto;
     background-color: black;
     
