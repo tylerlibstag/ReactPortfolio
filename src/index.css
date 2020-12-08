@@ -1,5 +1,5 @@
-html{
- width:160vw;
+html{ 
+ overflow-x:hidden;
 }
 
 body {

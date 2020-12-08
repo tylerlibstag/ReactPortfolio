@@ -8,6 +8,7 @@ import "../Projects/style.css"
 function Portfolio(props) {
 
     return (
+        
         <div className="project"> <h1 className="header"> Projects</h1>
             <div className="project-container">
                 {portfolioArr.map((props) => (
