@@ -1,25 +1,29 @@
-.logo{
-    position: absolute;
-    padding:auto;
-    margin-top: 3px;
-    width:190px;
-    height:130px;
-    border: 10px solid transparent;
-    border-width: 2px;
-    border-color: pink;
-    z-index: 2;
-  }
-  .bod{
-    position: relative;
-    
-    height: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr; 
-    overflow: auto;
-  }
-  .header{
-   
-    display:block;
+.project{
+  position: relative;
+ 
+}
+
+
+.project-container{
+  display: grid;
+  padding:10px;
+  grid-template-columns: repeat(3,1fr);
+  gap: 5px;
+  background-color: grey;
+  Width:auto;
+}
+
+.container{
+  padding:15px 0;
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+
+.header{
     position: relative;
     font-size: 100px;
     letter-spacing: 3px;
@@ -27,10 +31,24 @@
     -webkit-text-stroke-color: pink;
     margin: auto;
     text-align:center;
-    padding:2%;
+   
+    width: auto;
     background-color: black;
     
   }
+  @media (max-width: 1503px) and (min-width:880px){
+    .project-container{
+      grid-template-columns: repeat(2,1fr);
+      gap:5px;
+    }   
+}
+
+@media(max-width:880px){
+  .project-container{
+    grid-template-columns: 1fr;
+  } 
+}
+
   /* .container{
     display: grid;
     grid-template-columns: 1fr;

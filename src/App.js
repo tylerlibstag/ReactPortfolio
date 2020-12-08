@@ -12,7 +12,7 @@ import Logo from "./components/Logo"
 function App() {
   return (
     <Router>
-      <div>
+      <div className="app-container">
         <NavBar />
         <Logo/>
         <Switch>

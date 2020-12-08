@@ -10,8 +10,6 @@ function Main() {
         <div >
 
             <div className="body">
-               
-               
                     
               <div id="header1">  
                 <h1 className="headA"> Welcome To My Website</h1>

@@ -8,13 +8,8 @@ import "../Projects/style.css"
 function Portfolio(props) {
 
     return (
-        <div> <h1 className="header"> Projects</h1>
-            <div style={{
-                display: "grid",
-                gridTemplateColums: "1f, 1f, 1f",
-                overflow: "auto"
-            }}
-                className="bod container-fluid">
+        <div className="project"> <h1 className="header"> Projects</h1>
+            <div className="project-container">
                 {portfolioArr.map((props) => (
                     <div className="container" key={props.id}>
                         <Portfolioimage

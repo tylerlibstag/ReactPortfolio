@@ -1,12 +1,22 @@
 .button{
-    border-radius: 20%;
-    background-color: #e7e7e7; color: black;
+    border-radius: 10%;
+    background-color: #e7e7e7;
     display:block;
-    margin-left: auto;
-    margin-right: auto;
-    
-    
+    margin:0 auto;
+    padding:10px;
 }
+
+.button a {
+    color:#000;
+}
+
+.button:hover{
+    background-color:grey;
+}
+.button:hover a {
+    color:#000;
+}
+
 .text{
     text-align: center;
     color: white;
@@ -15,3 +25,4 @@ h2{
     color:white;
     text-align: center;
 }
+
