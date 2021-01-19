@@ -81,7 +81,7 @@ export const portfolioArr = [
         description: "An app that reccomends games for new and experienced gamers based off of user criteria.  the app also gives news on specified games and even has a random selection generator. I was responsible for finding and calling api functions using Jquery.",
         image: GameRecommender,
         github: "https://github.com/microxgleek94/ColumbiaProject_-1",
-        deployedApp: "https://microxgleek94.github.io/ColumbiaProject_-1/",
+        deployedApp: "https://microxgleek94.github.io/Search-Destroy/",
         languages: ["HTML", "/", "JAVASCRIPT", "/", "CSS", "/","JQUERY"]
     },
     {

@@ -5,7 +5,9 @@ import "./mediaStyle.css";
 function Curtain(){
   
 
-  return( <div className="curtain">
+  return( 
+  <div id="block">
+  <div className="curtain">
 
 
     <div className="curtain__wrapper" >
@@ -31,7 +33,7 @@ function Curtain(){
       
       </div>
   </div> 
-        
+  </div>
   )}
 
 export default Curtain;
