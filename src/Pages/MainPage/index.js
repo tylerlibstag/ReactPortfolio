@@ -1,6 +1,8 @@
 import React,{useState} from 'react';
 import Curtain from "../../components/Curtain"
 import "./mainStyle.css";
+import RazerLogo from '../../images/Razerlogo.JPG'
+import ME from '../../images/mee.png'
 
 function Main() {
         
@@ -13,7 +15,7 @@ function Main() {
                     
               <div id="header1">  
                 <h1 className="headA"> Welcome To My Website</h1>
-                <img src="images/ME.png" className="me" alt="Image of me"/>
+                <img src={ME} className="me" alt="Image of me"/>
                 
                 
                 <h1 className="intro">Tyler Libstag</h1>
@@ -25,7 +27,7 @@ function Main() {
                     </br>
                     Visionary...
                 </h3>
-                <img src="images/Razerlogo.JPG" className="razer"/>
+                <img src={RazerLogo} className="razer"/>
                 </div>
                 
                 

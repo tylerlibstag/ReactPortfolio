@@ -39,8 +39,9 @@
     
   }
   .razer{
-    width:auto;
-    height:auto;
+    background-image: url(/images/Razerlogo.JPG);
+    width:25%;
+    height:25%;
     display: block;
     margin-left: auto;
     margin-right: auto;

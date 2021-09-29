@@ -1,6 +1,6 @@
 .logo{
     border: 4px solid transparent;
-    
+    border-radius: 50%;
     height: auto;
     width: 80px;
     position: sticky;

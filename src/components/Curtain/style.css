@@ -48,15 +48,15 @@ background-color: black;
 }
 
 .me{
-    width:auto;
-    height:auto;
+    width:30%;
+    height:30%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-width: 3px;
     border: 10px solid transparent;
   
-    /* border-color: pink; */
+   
     border-radius: 50%;
   }
 /* Slide the panel to the right out of the container */
