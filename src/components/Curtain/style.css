@@ -1,4 +1,6 @@
-
+#body{
+background-color: black;
+}
 .curtain {
     
     width: 100%; /* Ensures the component is the full screen width */
@@ -46,8 +48,8 @@
 }
 
 .me{
-    width:300px;
-    height:300px;
+    width:auto;
+    height:auto;
     display: block;
     margin-left: auto;
     margin-right: auto;

@@ -1,3 +1,9 @@
 .navbar{
 width: auto;
+background-color: black;
+letter-spacing: 3px;
+color:pink;
+-webkit-text-stroke-width: 0.5px;
+-webkit-text-stroke-color: pink;
+font-family: "Golden Hopes PERSONAL USE ONLY";
 }

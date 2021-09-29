@@ -5,10 +5,10 @@ import "./style.css"
 function NavBar() {
   return <div>
 
-    <nav className="navbar navbar-expand  navbar-dark bg-dark">
+    <nav className="navbar navbar-expand  navbar-black bg-black">
     <img src="images/TL_logo.jpg" class="logo" alt="TL Logo"></img>
     
-  
+    
       <a className="navbar-brand" href="/main">Home</a>
       <a className="navbar-brand" href="/portfolio">Portfolio</a>
       

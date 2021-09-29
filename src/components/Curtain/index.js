@@ -7,7 +7,10 @@ function Curtain(){
 
   return( 
   <div id="block">
-  <div className="curtain">
+
+    
+
+  {/* <div className="curtain">
 
 
     <div className="curtain__wrapper" >
@@ -32,7 +35,7 @@ function Curtain(){
       <div className="curtain__panel curtain__panel--right"/>
       
       </div>
-  </div> 
+  </div>  */}
   </div>
   )}
 
