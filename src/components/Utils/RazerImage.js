@@ -10,7 +10,7 @@ function RazerImage(props) {
          overflow:"auto"}}
          >
            <img src={props.image}
-               className="GM" alt={props.title} width="300" height="300"  />
+               className="" alt={props.title} width="100%" height="auto"  />
        </div>
        
    )
