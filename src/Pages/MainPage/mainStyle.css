@@ -1,14 +1,26 @@
 
 .headA{
         text-align:center;
-        font-size: 50px;
+        font-size: 400%;
         letter-spacing: 3px;
         -webkit-text-stroke-width: 0.5px;
         -webkit-text-stroke-color: pink;
         font-family: "Golden Hopes PERSONAL USE ONLY";
 }
+.me{
+  width:30%;
+  height:30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 3px;
+  border: 10px solid transparent;
+
+ 
+  border-radius: 50%;
+}
 .intro{
-  
+  font-size:300%;
   text-align: center;
   padding-left:50px;
   margin:0px;
@@ -38,19 +50,7 @@
     -webkit-text-stroke-color: white; */
     
   }
-  .razer{
-    background-image: url(/images/Razerlogo.JPG);
-    width:25%;
-    height:25%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-width: 3px;
-    border: 10px solid transparent;
   
-    /* border-color: pink; */
-   
-  }
   
 
 
@@ -60,6 +60,7 @@
     width: 100%;
 
   }
+ 
   
  
   
