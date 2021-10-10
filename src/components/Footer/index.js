@@ -5,11 +5,14 @@ import 'font-awesome/css/font-awesome.min.css';
 
 function Footer(){
  return <div className="links">
- <a  href="https://www.linkedin.com/in/tyler-libstag-461b00124/"><img src="images/LI_logo.png"
-   title="LinkedIn Profile" alt="My LinkedIn Profile" width="75" height="75" /></a>
- <a  href="mailto:tylerlibstag@gmail.com"><img src="images/Gmail-Logo.png" alt="My Gmail" width="75"
-   height="75" /></a>
- <a  href="https://github.com/tylerlibstag" class="fa fa-github"><i className="fa fa-github"></i></a>
+
+ 
+ 
+ <a href="https://github.com/tylerlibstag" ><i className="fa fa-github fa-3x"></i></a>
+ <a href="mailto:tylerlibstag@gmail.com"><i className="fa fa-google-plus-square fa-3x"></i></a>
+ <a href="https://www.linkedin.com/in/tyler-libstag-461b00124/"><i className="fa fa-linkedin-square fa-3x"></i></a>
+ <a href="https://vimeo.com/user58607355"><i className="fa fa-vimeo-square fa-3x"></i></a>
+
 </div>
 
         

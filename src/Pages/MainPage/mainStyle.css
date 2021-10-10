@@ -4,7 +4,7 @@
         font-size: 400%;
         letter-spacing: 3px;
         -webkit-text-stroke-width: 0.5px;
-        -webkit-text-stroke-color: pink;
+        -webkit-text-stroke-color: white;
         font-family: "Golden Hopes PERSONAL USE ONLY";
 }
 .me{
@@ -22,12 +22,11 @@
 .intro{
   font-size:300%;
   text-align: center;
-  padding-left:50px;
   margin:0px;
   letter-spacing: 4px;
   padding-top:40px;
         -webkit-text-stroke-width: 0.5px;
-        -webkit-text-stroke-color: pink;
+        -webkit-text-stroke-color: white;
         font-family: "Golden Hopes PERSONAL USE ONLY";
 }
 .headB{
@@ -35,7 +34,7 @@
   font-size: 50px;
   letter-spacing: 3px;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: pink;
+  -webkit-text-stroke-color: white;
 }
 
 .aboutme{
