@@ -28,13 +28,14 @@ function Main() {
                         </br>
                         Visionary...
                     </h3>
-                 
-                    <ImagesDescriptions/>
+                   
 
 
                 </div>
 
-
+                <br></br>
+                 
+                 <ImagesDescriptions/>
 
             </div>
 

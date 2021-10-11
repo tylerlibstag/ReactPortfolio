@@ -2,10 +2,39 @@
     position: absolute;
     z-index: 3;
 }
+.button{
+  border-radius:50px;
+  background-color: pink ; /* Green */
+  border: none;
+  color: #9b870c;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10%;
+  margin-left:25%;
+  cursor: pointer;
+  font-family: "Montserrat";
+}
+.button2{
+  border-radius:50px;
+  background-color: white ; /* Green */
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10%;
+  margin-left:25%;
+  cursor: pointer;
+  font-family: "Consolas";
+}
 .razer{
-    background-image: url(/images/Razerlogo.JPG);
+
     width:50%;
-   
     display: block;
     margin-left: auto;
     margin-right: auto;
