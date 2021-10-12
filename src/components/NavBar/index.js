@@ -10,7 +10,7 @@ function NavBar() {
     
     
       <a className="navbar-brand" href="/main">Home</a>
-      <a className="navbar-brand" href="/portfolio">Portfolio</a>
+      <a className="navbar-brand" href="/JamesAvery">JamesAvery</a>
       
       <a className="navbar-brand" href="/razer">Razer</a>
 

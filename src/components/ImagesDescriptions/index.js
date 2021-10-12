@@ -1,10 +1,12 @@
 import React from "react";
 import './style.css'
+
 import RazerLogo from '../../images/Razerlogo.JPG'
 import JALogo from '../../images/JA.jpg'
 import Boro from '../../images/Borough.JPG'
 import SnD from '../../images/SnD.JPG'
 import Cinder from '../../images/Cinder.JPG'
+import Buttons from "../Buttons";
 
 
 
@@ -23,6 +25,7 @@ function ImagesDescriptions() {
                      utilized aspects of their website which is the the Razer RMA Process. </p>
                      <button class="button">Creative Process</button>
                      <button class="button2">Website</button>
+                     
 
                </div>
 
@@ -62,6 +65,7 @@ function ImagesDescriptions() {
                   <p class="description">(Personal Project) This project was created with the intent of helping both new and veteran gamers find fitting games based on the users criteria. Click to find the right game for you!  </p>
                   <button class="button">Creative Process</button>
                      <button class="button2">Website</button>
+                     <Buttons label="button"/>
                </div>
 
             </div>

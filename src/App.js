@@ -6,6 +6,7 @@ import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import Main from './Pages/MainPage';
 import Razer from './Pages/Razer';
+import James from './Pages/JamesAvery';
 
 import Logo from "./components/Logo"
 
@@ -18,8 +19,9 @@ function App() {
         <Logo/>
         <Switch>
           <Route exact path={["/", "/main"]} component={Main} />
-          <Route exact path="/portfolio" component={Portfolio} />
+   
           <Route exact path="/razer" component={Razer} />
+          <Route exact path="/JamesAvery" component={James} />
           
           
         </Switch>

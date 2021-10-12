@@ -14,4 +14,11 @@ export const Razer2_5 = require("./Razer/Razer2.5.JPG")
 export const Razer3 = require("./Razer/Razer3.JPG")
 export const Razer3_5 = require("./Razer/Razer3.5.JPG")
 export const Razer4 = require("./Razer/Razer4.JPG")
+////////////////////////////////////////////////////////
+export const JA1 = require("./JamesAvery/JA_FH.JPG")
+export const JA2 = require("./JamesAvery/JA_CGA_0.JPG")
+export const JA3 = require("./JamesAvery/JA_CG1_0.JPG")
+export const JA4 = require("./JamesAvery/JA_FSA_0.JPG")
+export const JA5 = require("./JamesAvery/JA_FSA_1.JPG")
+export const JA6 = require("./JamesAvery/JA_FSA_2.JPG")
 

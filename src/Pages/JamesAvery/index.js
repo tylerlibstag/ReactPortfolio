@@ -1,26 +1,26 @@
 import React from "react";
-import "../Razer/style.css"
+import "../JamesAvery/style.css"
 
-import RazerImage from "../../components/Utils/RazerImage";
-import RazerDescription from "../../components/Utils/PortfolioDescription"
-import {RazerArr} from "../../components/Utils/RazerProjects";
+import JamesAveryImage from "../../components/Utils/JamesAveryImage";
+import JamesAveryDescription from "../../components/Utils/PortfolioDescription"
+import {JamesArr} from "../../components/Utils/JamesAveryProjects";
 
 function Razer(props) {
 
     return (
         
         <div className="project"> 
-        <h1 className="header"> Razer</h1>
+        <h1 className="JAheader">James Avery</h1>
         <p className="header2">Languages/Frameworks:</p>
-        <p className="header3">HTML/CSS/Javascript/PHP/Oracle/MVC</p>
+        <p className="header3">HTML/CSS/Javascript/PHP/Oracle/MVC/Jquery</p>
             <div className="project-container-razer">
-                {RazerArr.map((props) => (
+                {JamesArr.map((props) => (
                     <div className="container" key={props.id}>
-                        <RazerImage
+                        <JamesAveryImage
                             title={props.title}
                             image={props.image} 
                             />
-                        <RazerDescription
+                        <JamesAveryDescription
                             description={props.description}
                             />
                         
