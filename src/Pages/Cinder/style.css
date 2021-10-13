@@ -1,0 +1,40 @@
+.Cinderheader{
+    position: relative;
+    font-size: 100px;
+    padding: 15px;
+    letter-spacing: 3px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    margin: auto;
+    text-align:center;
+    color:whitesmoke;
+    width: auto;
+    background-color:#f10c45;
+    
+  }
+  .header2{
+  position: relative;
+  font-size: 100%;
+  padding: 15px;
+  letter-spacing: 3px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  margin: auto;
+  text-align:center;
+  width: auto;
+  background-color: black;
+  
+}
+.header3{
+  position: relative;
+  font-size: 100%;
+  padding: 15px;
+  letter-spacing: 3px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:white;
+  margin: auto;
+  text-align:center;
+  
+  width: auto;
+  background-color: black;
+}

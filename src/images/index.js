@@ -21,4 +21,20 @@ export const JA3 = require("./JamesAvery/JA_CG1_0.JPG")
 export const JA4 = require("./JamesAvery/JA_FSA_0.JPG")
 export const JA5 = require("./JamesAvery/JA_FSA_1.JPG")
 export const JA6 = require("./JamesAvery/JA_FSA_2.JPG")
-
+////////////////////////////////////////////////////////
+export const boro1 = require("./Boro/boro_1.JPG")
+export const boro2 = require("./Boro/boro_2.JPG")
+export const boro3 = require("./Boro/boro_3.jpg")
+export const boro4 = require("./Boro/boro_4.JPG")
+export const boro5 = require("./Boro/boro_5.JPG")
+export const boro6 = require("./Boro/boro_6.jpg")
+///////////////////////////////////////////////////////
+export const Cinder1 = require("./Cinder/Cinder_01.JPG")
+export const Cinder2 = require("./Cinder/Cinder_02.JPG")
+export const Cinder3 = require("./Cinder/Cinder_03.JPG")
+export const Cinder4 = require("./Cinder/Cinder_04.JPG")
+export const Cinder5 = require("./Cinder/Cinder_05.JPG")
+export const Cinder6 = require("./Cinder/Cinder_06.JPG")
+///////////////////////////////////////////////////////
+export const FS1 = require("./FirstSavings/FS1.JPG")
+export const FS2 = require("./FirstSavings/FS2.JPG")

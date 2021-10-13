@@ -13,6 +13,9 @@ function NavBar() {
       <a className="navbar-brand" href="/JamesAvery">JamesAvery</a>
       
       <a className="navbar-brand" href="/razer">Razer</a>
+      <a className="navbar-brand" href="/Boroughd">Boroughd</a>
+      <a className="navbar-brand" href="/Cinder">Cinder</a>
+      <a className="navbar-brand" href="/FirstSavings">FirstSavings</a>
 
       
       

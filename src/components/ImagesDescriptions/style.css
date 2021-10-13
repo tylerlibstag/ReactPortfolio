@@ -16,10 +16,7 @@
   margin-left:25%;
   cursor: pointer;
   font-family: "Montserrat";
-  -webkit-transition: background 0.2s ease;
-  -moz-transition: background 0.2s ease;
-  -o-transition: background 0.2s ease;
-  transition: background 0.2s ease;
+
 }
 .button2{
   border-radius:50px;
@@ -35,10 +32,7 @@
   margin-left:25%;
   cursor: pointer;
   font-family: "Consolas";
-  -webkit-transition: background 0.2s ease;
-  -moz-transition: background 0.2s ease;
-  -o-transition: background 0.2s ease;
-  transition: background 0.2s ease;
+
 }
 .razer{
 
