@@ -12,7 +12,7 @@ export const CinderArr = [
     {
         id: 0,
         title: "image 1",
-        description: "At the start of the RMA Process the user is generally presented with their RMA product number and an option for 'replacement' or 'return' since I was using a test RMA you will only be able to see the green and gray overlay of the user interface.  ",
+        description: "I mainly worked on the backend part of the site with stylistic changes to the front end profile page. Aside from Jquery I enjoyed setting up certain functionalities using javascript. I created the logo in photoshop along with some of the headers in the profile creation process.",
         image: Cinder1
        
         
@@ -20,7 +20,7 @@ export const CinderArr = [
     {
         id: 1,
         title: "image 2",
-        description: "Once the User has selected their option they are then brought to the contact details page. Here the user fills in the neccessary information in order to complete the request. ",
+        description: "The user has the option to login or create an account. If the user does not have an account they may signup and follow the standard sign up process.",
         image: Cinder2
      
         
@@ -28,7 +28,7 @@ export const CinderArr = [
     {
         id: 0,
         title: "image 3",
-        description: "If the user is logged in. The users info will be pre populated. The user will have the option to go back and fourth between pages if they wish to change something. ",
+        description: "Once the user is logged in they may start the search process to find someone who shares similar interests. But, before you begin doing that you may want to edit your profile ;)",
         image: Cinder3,
         
         
@@ -36,7 +36,7 @@ export const CinderArr = [
     {
         id: 0,
         title: "image 4",
-        description: "In the review screen the user has one last look at their RMA request to see if everything is correct, if everything is correct, the user proceeds to the 'buy now' option",
+        description: "If you choose to first explore the site, you may see we set up a location recomendation widget along with a bootcamp search widget. This is intended to help people who are just starting their careers in tech and want to explore potential options ",
         image: Cinder4,
   
         
@@ -44,13 +44,13 @@ export const CinderArr = [
     {
         id: 0,
         title: "image 5",
-        description: "Here the user is then presented with a paypal/credit card option in order to complete the transaction.",
+        description: "Here on the sidebar is our main functionality. The chat room. Once the user has a profile with their set interests they may start searching for potential friends/ future collegues",
         image: Cinder5,
     },
     {
         id: 0,
         title: "image 6",
-        description: "Finally, the user is presented with a confirmation of their RMA request which is also sent to their email",
+        description: "Finally, after the user has a match or two they will have the option to set up individual or multi chat rooms. this will be the main way to communicate with the person/persons you matched with",
         image: Cinder6,
  
         

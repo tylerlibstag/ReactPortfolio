@@ -12,7 +12,7 @@ export const RazerArr = [
     {
         id: 0,
         title: "image 1",
-        description: "At the start of the RMA Process the user is generally presented with their RMA product number and an option for 'replacement' or 'return' since I was using a test RMA you will only be able to see the green and gray overlay of the user interface.  ",
+        description: "I followed an MVC structured format, worked with HTML CSS and Javascript,  while also implementing features through Oracles console. At the start of the RMA Process the user is generally presented with their RMA product number and an option for 'replacement' or 'return' since I was using a test RMA you will only be able to see the green and gray overlay of the user interface.  ",
         image: Razer1
        
         

@@ -19,7 +19,7 @@ export const JamesArr = [
     {
         id: 1,
         title: "image 2",
-        description: "In this scenario the user has selected Corporate Grants. The user is able to view the three pillars and their descriptions to determine whether or not ther cause qualifies.",
+        description: "In this scenario the user has selected Corporate Grants. The user is able to view the three pillars and their descriptions to determine whether or not their cause qualifies.",
         image: JA2
      
         
@@ -27,7 +27,7 @@ export const JamesArr = [
     {
         id: 2,
         title: "image 3",
-        description: "If the user is logged in. The users info will be pre populated. The user will have the option to go back and fourth between pages if they wish to change something. ",
+        description: "In order to recieve funding, the user must submit their applications before may 1st. There is a 6 month period in which corporate grant applications will not be reviewed. During this period, the application start button will not be on the page",
         image: JA3
         
         
@@ -35,7 +35,7 @@ export const JamesArr = [
     {
         id: 3,
         title: "image 4",
-        description: "In the review screen the user has one last look at their RMA request to see if everything is correct, if everything is correct, the user proceeds to the 'buy now' option",
+        description: "In this scenario the user has selected Fundraising Support. This would normally be selected if the user is asking for under 10'000 USD",
         image: JA4
   
         
@@ -43,7 +43,7 @@ export const JamesArr = [
     {
         id: 4,
         title: "image 5",
-        description: "Here the user is then presented with a paypal/credit card option in order to complete the transaction.",
+        description: "(For purposes of disclosure, I have not posted the entire walkthrough of the application procees). The process includes questions about the location of the donation , James avery support requests, files and documents to submit for review and lastly an end screen with the confirmation.",
         image: JA5
     }
 ];
