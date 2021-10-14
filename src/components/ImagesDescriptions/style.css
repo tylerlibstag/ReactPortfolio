@@ -18,6 +18,16 @@
   font-family: "Montserrat";
 
 }
+.button :hover{
+  background-color: pink;
+  
+  text-decoration: none;
+}
+.button2 :hover{
+  background-color: skyblue;
+  
+  text-decoration: none;
+}
 .button2{
   border-radius:50px;
   background-color: white ; /* Green */
