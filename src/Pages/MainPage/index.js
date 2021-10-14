@@ -15,6 +15,7 @@ function Main() {
             <div className="body">
 
                 <div id="header1">
+                    <br></br>
                     <h1 className="headA"> Welcome To My Website</h1>
                     <img src={ME} className="me" alt="Image of me" />
 
