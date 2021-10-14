@@ -64,7 +64,7 @@ function ImagesDescriptions() {
             <div className="project-container-images">
                <img src={Cinder} className="razer" />
                <div>
-                  <p class="description">(Personal Project) This project was created with the intent of helping both new and veteran gamers find fitting games based on the users criteria. Click to find the right game for you!  </p>
+                  <p class="description">(Personal Project) NOT A DATING APP. This project was created with the intent of helping bootcamp/college/grad students connect over common interests in the tech industry. Users can put what their interest in their bio and be matched up with people who have similar likes. There is a chat functionality, Meet up recommender with built with a location api, and an interest board. Click to see more!  </p>
                   <button class="button"><a href="/Cinder">Creative Process</a></button>
                   <button class="button2"><a href="https://project2-cinder.herokuapp.com/" target="_blank">Website</a></button>
                 
